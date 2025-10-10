@@ -12,6 +12,9 @@ The Amazon Sales Analysis is a comprehensive data analytics project developed to
 The dashboard was built using Power BI, integrating data transformation, modeling, and visualization techniques. It enables users to analyze trends in sales revenue, discounts, savings, product ratings, and category performance.
 
 
+<img width="840" height="479" alt="amazon sales dashboard" src="https://github.com/user-attachments/assets/3b275d27-3e93-4ad4-80eb-4d1fe06826ce" />
+
+
 ### Data sources 
 
 The dataset used in this project was obtained from Quantum Analytics NG.
