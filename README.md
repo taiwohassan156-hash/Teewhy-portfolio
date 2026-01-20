@@ -4,7 +4,7 @@
 - [Data sources](#datasources)
 - [Recommendations](#recommendations)
 
-### project overview 
+### project overview
 
 
 The Amazon Sales Analysis is a comprehensive data analytics project developed to provide a clear visualization and understanding of sales performance across different product categories on Amazon. The project focuses on deriving actionable insights from raw transactional data to support informed business decisions regarding product pricing, marketing, and inventory management.
